@@ -8,8 +8,4 @@ A passionate college student aiming to help as many people as he can. I love pla
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nemesis-12&layout=compact&theme=dark&title_color=D0FCB3&bg_color=2D2D2A)](https://github.com/anuraghazra/github-readme-stats)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![Snake animation](https://github.com/Nemesis-12/Nemesis-12/blob/output/github-contribution-grid-snake.svg)
