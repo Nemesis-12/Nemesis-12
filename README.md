@@ -11,20 +11,7 @@ A passionate college student aiming to help as many people as he can. I love pla
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Nemesis-12/Nemesis-12/main.yml?label=action&style=flat-square)](https://github.com/Nemesis-12/Nemesis-12/actions/workflows/main.yml)
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="
-      https://raw.githubusercontent.com/Nemesis-12/snk/output/github-contribution-grid-snake-dark.svg
-    "
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="
-      https://raw.githubusercontent.com/Nemesis-12/snk/output/github-contribution-grid-snake.svg
-    "
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Nemesis-12/snk/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
 </picture>
