@@ -7,3 +7,6 @@ A passionate college student aiming to help as many people as he can. I love pla
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,html,css,mysql,bootstrap,figma,sklearn)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nemesis-12&layout=compact&theme=dark&title_color=D0FCB3&bg_color=2D2D2A)](https://github.com/anuraghazra/github-readme-stats)
+
+### CONTACT
+LinkedIn: [https://www.linkedin.com/in/fa-mohammed/](https://www.linkedin.com/in/fa-mohammed/)
