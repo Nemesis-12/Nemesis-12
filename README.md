@@ -5,7 +5,7 @@
 \- 🃏 Aspiring ML Engineer, Current Test Engineer
 \
 \
-\- 🎴 Ongoing Project: [CHIP-8 Emulator](https://github.com/Nemesis-12/chip8), [Kingfisher](https://github.com/Nemesis-12/kingfisher-chess)
+\- 🎴 Ongoing Project: [CHIP-8 Emulator](https://github.com/Nemesis-12/chip8)
 \
 \
 \- 🕹️ Video game enthusiast
