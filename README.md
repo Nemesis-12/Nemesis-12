@@ -50,5 +50,5 @@
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-2684FF?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Stats for Nerds
+### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nemesis-12&layout=compact&theme=dark&title_color=D0FCB3&bg_color=2D2D2A)](https://github.com/anuraghazra/github-readme-stats)
