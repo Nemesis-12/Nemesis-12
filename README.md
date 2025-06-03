@@ -2,7 +2,7 @@
 
 ### About Me
 
-\- 🃏 Aspiring ML Engineer, Current Test Engineer
+\- 🃏 Aspiring AI/ML Engineer, Current Test Engineer
 \
 \
 \- 🎴 Ongoing Project: [CHIP-8 Emulator](https://github.com/Nemesis-12/chip8)
