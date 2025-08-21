@@ -5,7 +5,7 @@
 \- 🃏 Aspiring AI/ML Engineer, Current Test Engineer
 \
 \
-\- 🎴 Ongoing Project: [CHIP-8 Emulator](https://github.com/Nemesis-12/chip8)
+\- 🎴 Ongoing Project: [Multi-head Latent Attention (MLA)](https://github.com/Nemesis-12/multihead-latent-attention)
 \
 \
 \- 🕹️ Video game enthusiast
