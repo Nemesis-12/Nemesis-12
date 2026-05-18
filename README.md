@@ -5,7 +5,7 @@
 \- 🃏 Aspiring AI/ML Engineer, Current Test Engineer
 \
 \
-\- 🎴 Ongoing Project: [Multi-head Latent Attention (MLA)](https://github.com/Nemesis-12/multihead-latent-attention)
+\- 🎴 Ongoing Project: [Portfolio](https://github.com/Nemesis-12/portfolio)
 \
 \
 \- 🕹️ Video game enthusiast
@@ -49,6 +49,3 @@
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-2684FF?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nemesis-12&layout=compact&theme=dark&title_color=D0FCB3&bg_color=2D2D2A)](https://github.com/anuraghazra/github-readme-stats)
