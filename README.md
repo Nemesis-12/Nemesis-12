@@ -50,6 +50,4 @@
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-2684FF?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Koi
-
 <img src="koi/koi.gif" width="256" alt="A pixel-art koi drawn from my public GitHub activity, redrawn every night" />
