@@ -49,3 +49,5 @@
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-2684FF?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<img src="koi/koi.gif" width="256" alt="A pixel-art koi drawn from my public GitHub activity, redrawn every night" />
